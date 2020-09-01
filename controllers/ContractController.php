@@ -40,7 +40,7 @@ class ContractController extends Controller
     }
 
     /**
-     * Warn user that he/she must first create client
+     * Warn user that first must be created client
      * @param $action
      * @return bool
      * @throws HttpException
